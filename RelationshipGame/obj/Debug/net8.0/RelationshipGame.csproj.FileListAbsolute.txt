@@ -1,0 +1,14 @@
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\bin\Debug\net8.0\RelationshipGame.exe
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\bin\Debug\net8.0\RelationshipGame.deps.json
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\bin\Debug\net8.0\RelationshipGame.runtimeconfig.json
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\bin\Debug\net8.0\RelationshipGame.dll
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\bin\Debug\net8.0\RelationshipGame.pdb
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\RelationshipGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\RelationshipGame.AssemblyInfoInputs.cache
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\RelationshipGame.AssemblyInfo.cs
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\RelationshipGame.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\RelationshipGame.dll
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\refint\RelationshipGame.dll
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\RelationshipGame.pdb
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\RelationshipGame.genruntimeconfig.cache
+C:\Users\benjamin.cigelnilss\source\repos\RelationshipGame\obj\Debug\net8.0\ref\RelationshipGame.dll
