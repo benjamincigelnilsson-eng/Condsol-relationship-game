@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\benjamin.cigelnilss\\source\\repos\\RelationshipGame\\RelationshipGame.csproj",
+      "projectUniqueName": "C:\\Users\\benjamin.cigelnilss\\Documents\\GitHub\\Condsol-relationship-game\\RelationshipGame\\RelationshipGame.csproj",
       "projectName": "RelationshipGame",
-      "projectPath": "C:\\Users\\benjamin.cigelnilss\\source\\repos\\RelationshipGame\\RelationshipGame.csproj",
+      "projectPath": "C:\\Users\\benjamin.cigelnilss\\Documents\\GitHub\\Condsol-relationship-game\\RelationshipGame\\RelationshipGame.csproj",
       "packagesPath": "C:\\Users\\benjamin.cigelnilss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\benjamin.cigelnilss\\source\\repos\\RelationshipGame\\obj\\",
+      "outputPath": "C:\\Users\\benjamin.cigelnilss\\Documents\\GitHub\\Condsol-relationship-game\\RelationshipGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

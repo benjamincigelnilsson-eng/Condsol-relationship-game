@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\benjamin.cigelnilss\\source\\repos\\RelationshipGame\\",
+  "WorkspaceRootPath": "C:\\Users\\benjamin.cigelnilss\\Documents\\GitHub\\Condsol-relationship-game\\RelationshipGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0419D6C-65DB-46B4-B4BC-E707C9AEA221}|RelationshipGame.csproj|c:\\users\\benjamin.cigelnilss\\source\\repos\\relationshipgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E0419D6C-65DB-46B4-B4BC-E707C9AEA221}|RelationshipGame.csproj|c:\\users\\benjamin.cigelnilss\\documents\\github\\condsol-relationship-game\\relationshipgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0419D6C-65DB-46B4-B4BC-E707C9AEA221}|RelationshipGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\benjamin.cigelnilss\\source\\repos\\RelationshipGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\benjamin.cigelnilss\\Documents\\GitHub\\Condsol-relationship-game\\RelationshipGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\benjamin.cigelnilss\\source\\repos\\RelationshipGame\\Program.cs",
+              "ToolTip": "C:\\Users\\benjamin.cigelnilss\\Documents\\GitHub\\Condsol-relationship-game\\RelationshipGame\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wBcBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAP0BAAAAAAAAAAAuwOwBAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T09:42:29.325Z",
               "EditorCaption": ""

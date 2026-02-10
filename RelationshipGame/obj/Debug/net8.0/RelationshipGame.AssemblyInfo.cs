@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RelationshipGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b96ec8a416d91e659798fdb8389c1ff4aac65c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RelationshipGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RelationshipGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
